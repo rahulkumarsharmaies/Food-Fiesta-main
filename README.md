@@ -84,11 +84,11 @@ The project can also be configured to use PostgreSQL for deployment or productio
 | Layer | Technology |
 | :--- | :--- |
 | Backend | Java 21, Spring Boot 3.4.2, Spring Security, Hibernate |
-| Database | H2 for local development, PostgreSQL optional |
+| Database | MySQL for local development |
 | Documentation | SpringDoc OpenAPI / Swagger UI |
 | Frontend | Thymeleaf, CSS, JavaScript |
 | Build Tool | Maven Wrapper |
-| API Testing | Swagger, Postman |
+| API Testing | Swagger, postman |
 
 ---
 
